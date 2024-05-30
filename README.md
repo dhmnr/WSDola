@@ -1,5 +1,5 @@
 # PhiDola
-This repository hosts the code for Phi model implementation for the [Dola paper](https://arxiv.org/abs/2309.03883) and also few extensions of the DOLA method
+This repository hosts the code for Phi model implementation for the [Dola paper](https://arxiv.org/abs/2309.03883) and also few extensions of the DOLA method such as Weighted Sum
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/dhmnr/PhiDola)
 ![GitHub issues](https://img.shields.io/github/issues-raw/dhmnr/PhiDola)
