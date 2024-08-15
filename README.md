@@ -1,10 +1,10 @@
-# WSDola
-This repository hosts the code for Phi model implementation for the [Dola paper](https://arxiv.org/abs/2309.03883) and the weighted sum extension of the DOLA method 
-
 ![GitHub last commit](https://img.shields.io/github/last-commit/dhmnr/PhiDola)
 ![GitHub issues](https://img.shields.io/github/issues-raw/dhmnr/PhiDola)
 ![GitHub stars](https://img.shields.io/github/stars/dhmnr/PhiDola?style=social)
 ![License](https://img.shields.io/badge/license-MIT-green)
+
+# WSDola
+This repository hosts the code for Phi model implementation for the [Dola paper](https://arxiv.org/abs/2309.03883) and the weighted sum extension of the DOLA method 
 
 ## Details
 
